@@ -7,7 +7,8 @@
 ## Abstract
 
 - **🎓 Major in Mechanical Engineering in Hanyang Univ(2013~2020)**    
-- **💻 AI Software Beginner(2021~now)**    
+- **💻 AI Software Beginner(2021~now)**
+  - *KT AIVLE School AI developer course(2021.12~2022.05)*    
 - **🚶 Daily Walker(3km/days)**    
 - **🍕 Pizza Lover**
 <br></br>
