@@ -6,10 +6,10 @@
 
 ## Abstract
 
-- **🎓 Major in Mechanical Engineering(2013~2020)**    
-- **💻 AI Software beginner(2021~now)**    
+- **🎓 Major in Mechanical Engineering in Hanyang Univ(2013~2020)**    
+- **💻 AI Software Beginner(2021~now)**    
 - **🚶 Daily Walker(3km/days)**    
-- **🍕 Pizza lover**
+- **🍕 Pizza Lover**
 <br></br>
 ## ☎️ Contact information
 
