@@ -4,9 +4,50 @@
 
 <h3 align="center"> 👋🏼반갑습니다, 식사는 하셨나요?<br>Hello! from Seoul, Korea</h3>
 
-<h5>Abstract</h5>
+## Abstract
 
-- 🎓 Major in Mechanical Engineering(2013~2020)    
-- 💻 AI Software beginner(2021~now)    
-- 🚶 Daily Walker(3km/days)    
-- 🍕 Pizza lover
+- **🎓 Major in Mechanical Engineering(2013~2020)**    
+- **💻 AI Software beginner(2021~now)**    
+- **🚶 Daily Walker(3km/days)**    
+- **🍕 Pizza lover**
+<br></br>
+## ☎️ Contact information
+
+- **📧 E-mail lear01@naver.com**
+<br></br>
+## 🛠️ Skills
+
+### 🗣️ Languages
+
+- **Python ⭐⭐⭐**
+- **HTML ⭐⭐**
+- **CSS ⭐**
+
+### 🔙 Backend Framework
+
+- **Django ⭐⭐⭐**
+
+### 💽 DataBase
+
+- **MySQL ⭐⭐**
+
+### 🧠 AI
+
+- **Sklearn ⭐⭐**⭐
+- **Tensorflow ⭐⭐⭐**
+
+### 🔗 Version Control
+
+- **git ⭐⭐⭐**
+
+### 📞 Communication
+
+- **Redmine ⭐⭐**
+- **Notion ⭐**
+- **Adobe XD ⭐⭐**
+
+### 🔝 Certification
+
+- **KT AIFB Professional**
+
+---
